@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="change">Изменить</string>
+    <string name="msg_str_empty">Пусто</string>
+    <string name="action_open">Открыть</string>
+    <string name="action_save">Сохранить</string>
+    <string name="add">Добавить</string>
+    <string name="addBtn">+</string>
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+    <string name="sort">Сортировать</string>
+    <string name="look">Посмотреть</string>
+    <string name="saveEditWrite">Сохранить</string>
+    <string name="editTextTitle">Название</string>
+    <string name="editTextWrite">Вводите текст заметки</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="pref_openmode">Режим открытия</string>
+    <string name="pref_color">Цвет</string>
+    <string name="pref_color_black">Черный цвет</string>
+    <string name="pref_color_red">Красный цвет</string>
+    <string name="pref_color_green">Зеленый цвет</string>
+    <string name="pref_color_blue">Синий цвет</string>
+    <string name="pref_size">Размер</string>
+    <string name="pref_style">Стиль</string>
+    <string name="pref_style_regular">Нормальный</string>
+    <string name="pref_style_bold">Полужирный</string>
+    <string name="pref_style_italic">Курсив</string>
+    <string name="markList">&#8226; foo<br/></string>
+</resources>

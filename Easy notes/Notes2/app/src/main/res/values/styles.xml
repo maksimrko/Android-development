@@ -1,0 +1,39 @@
+<resources>
+    <!-- Base application theme. -->
+<!--    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--        <item name="android:textColor">@color/colorTitle</item>-->
+<!--        <item name="colorPrimary">@color/toolbarColorBack</item>-->
+<!--        <item name="colorPrimaryDark">#C8C1C1</item>-->
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
+<!--    </style>-->
+
+<!--    <style name="CustomTheme" parent="Theme.AppCompat.DayNight">-->
+<!--        <item name="android:textColor">@color/colorTitle</item>-->
+<!--    </style>-->
+    <style name="MainTheme" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorTitle</item>
+    </style>
+
+<style name="ListViewStyle">
+    <item name="android:background">#b8b4c1</item>
+    <item name="android:fastScrollEnabled">true</item>
+    <item name="android:textSize">15dp</item>
+    <item name="android:textColor">#f5f4f6</item>
+</style>
+<!--    <style name="CustomMainActivity" parent="android:style/Theme.Holo">-->
+<!--        <item name="android:listViewStyle">@style/CustomListView</item>-->
+<!--        <item name="android:textViewStyle">@style/CustomTextView</item>-->
+<!--    </style>-->
+
+<!--    <style name="CustomListView" parent="android:style/Widget.ListView">-->
+<!--        <item name="android:background">#b8b4c1</item>-->
+<!--        <item name="android:fastScrollEnabled">true</item>-->
+<!--    </style>-->
+<!--    <style name="CustomTextView" parent="android:style/Widget.TextView">-->
+<!--        <item name="android:textStyle">normal</item>-->
+<!--        <item name="android:textSize">20sp</item>-->
+<!--    </style>-->
+
+</resources>
