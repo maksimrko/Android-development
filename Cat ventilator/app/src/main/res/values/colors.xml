@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorButtonLevel">#80ADC1E2</color>
+    <color name="colorClickActivityButton">#5C4188</color>
+    <color name="textColor">#070c13</color>
+    <color name="textVentilatorToolbar">#eef1d9</color>
+
+    <color name="backgroundColorMainActivityStart">#d9eef1</color>
+    <color name="backgroundColorMainActivityCenter">#cad7ec</color>
+    <color name="backgroundColorMainActivityEnd">#adc1e2</color>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/tableLayout2"
+    android:layout_marginStart="7dp"
+    android:layout_marginEnd="7dp"
+    tools:context=".Off_On_Ventilator">
+
+        <TableRow>
+
+            <Button
+                android:id="@+id/btn_off"
+                android:layout_width="match_parent"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1"
+                android:background="@drawable/buttononoff"
+                android:text="@string/OffLevel"
+                android:textColor="@color/textColor" />
+
+            <Button
+                android:id="@+id/btn_low"
+                android:layout_marginRight="2dp"
+                android:layout_weight="1"
+                android:background="@drawable/buttononoff"
+                android:text="@string/lowLevel"
+                android:textColor="@color/textColor" />
+
+        </TableRow>
+
+</TableLayout>
