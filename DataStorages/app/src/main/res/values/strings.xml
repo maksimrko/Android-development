@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DataStorages</string>
+    <string name="app_title">Сохранение данных в устройстве</string>
+    <string name="btn_file">Переход в файловую активность</string>
+    <string name="btn_db">Переход в активность баз данных</string>
+
+    <string name="btn_add_Db">Добавить в базу данных</string>
+    <string name="btn_show_Db">Показать базу данных</string>
+    <string name="msg_str_empty">Введите строку</string>
+
+    <string name="work_with_file_title">Работа с файлами</string>
+    <string name="btn_add_file">Добавить в файл</string>
+    <string name="btn_show_file">Показать содержимое файла</string>
+    <string name="btn_file_dialog">Диалоговое окно</string>
+    <string name="btn_add_img">Загрузка картинки в базу данных</string>
+    <string name="btn_show_img">Загрузка картинки c базы данных</string>
+
+</resources>
