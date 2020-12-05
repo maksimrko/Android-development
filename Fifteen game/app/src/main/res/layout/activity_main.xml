@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBg"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:layout_marginBottom="150dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/cell0"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/one" />
+
+            <Button
+                android:id="@+id/cell1"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/two" />
+
+            <Button
+                android:id="@+id/cell2"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/three" />
+
+            <Button
+                android:id="@+id/cell3"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/four" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/cell4"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/five" />
+
+            <Button
+                android:id="@+id/cell5"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/six" />
+
+            <Button
+                android:id="@+id/cell6"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/seven" />
+
+            <Button
+                android:id="@+id/cell7"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/eight" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/cell8"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/nine" />
+
+            <Button
+                android:id="@+id/cell9"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/ten" />
+
+            <Button
+                android:id="@+id/cell10"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+
+                android:text="@string/eleven" />
+
+            <Button
+                android:id="@+id/cell11"
+                style="@style/buttonsStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/twelve" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/cell12"
+                style="@style/buttonsStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/thirteen" />
+
+            <Button
+                android:id="@+id/cell13"
+                style="@style/buttonsStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/fourteen" />
+
+            <Button
+                android:id="@+id/cell14"
+                style="@style/buttonsStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonfifteen"
+                android:text="@string/fifteen" />
+
+            <Button
+                android:id="@+id/cell15"
+                style="@style/buttonsStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/buttonclear"
+                android:text="" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/countCell"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorTextCount"
+        android:gravity="center"
+        android:text="@string/zero"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.0">
+
+    </TextView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
