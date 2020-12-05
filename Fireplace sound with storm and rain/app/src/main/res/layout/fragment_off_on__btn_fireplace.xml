@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".off_on__btn_fireplace">
+
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/btn_off"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_marginRight="2dp"
+            android:text="@string/off_btn"
+            android:textColor="@color/btn_font_color"
+            android:background="@drawable/buttons"
+            android:textSize="25sp"
+            />
+
+        <Button
+            android:id="@+id/btn_on"
+            android:layout_weight="1"
+            android:text="@string/on_btn"
+            android:textColor="@color/btn_font_color"
+            android:background="@drawable/buttons"
+            android:textSize="25sp"
+            />
+
+    </TableRow>
+</TableLayout>

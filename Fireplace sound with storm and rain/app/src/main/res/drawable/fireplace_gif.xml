@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:drawable="@drawable/fp1" android:duration="100"></item>
+<item android:drawable="@drawable/fp2" android:duration="100"></item>
+<item android:drawable="@drawable/fp3" android:duration="100"></item>
+<item android:drawable="@drawable/fp4" android:duration="100"></item>
+<item android:drawable="@drawable/fp5" android:duration="100"></item>
+<item android:drawable="@drawable/fp6" android:duration="100"></item>
+<item android:drawable="@drawable/fp7" android:duration="100"></item>
+<item android:drawable="@drawable/fp8" android:duration="100"></item>
+<item android:drawable="@drawable/fp9" android:duration="100"></item>
+<item android:drawable="@drawable/fp10" android:duration="100"></item>
+<item android:drawable="@drawable/fp11" android:duration="100"></item>
+<item android:drawable="@drawable/fp12" android:duration="100"></item>
+<item android:drawable="@drawable/fp13" android:duration="100"></item>
+<item android:drawable="@drawable/fp14" android:duration="100"></item>
+<item android:drawable="@drawable/fp15" android:duration="100"></item>
+<item android:drawable="@drawable/fp16" android:duration="100"></item>
+<item android:drawable="@drawable/fp17" android:duration="100"></item>
+<item android:drawable="@drawable/fp18" android:duration="100"></item>
+</animation-list>

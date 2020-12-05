@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fireplace with rain</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Image_fireplace">Image_fireplace</string>
+    <string name="off_btn">Off</string>
+    <string name="on_btn">On</string>
+
+</resources>

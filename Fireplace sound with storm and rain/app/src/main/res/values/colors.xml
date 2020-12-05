@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="btnOff_On">#140000</color>
+    <color name="btn_font_color">#ffc4c4</color>
+    <color name="btn_change_start_color">#ffebeb</color>
+    <color name="btn_change_end_color">#ff0000</color>
+
+    <color name="backgroundColor">#ff8989</color>
+    <color name="backgroundColor2">#ff3b3b</color>
+    <color name="themeColor">#750000</color>
+
+
+</resources>
